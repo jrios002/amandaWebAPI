@@ -19,6 +19,7 @@
     "express": "^4.17.1",
     "firebase": "^7.14.6",
     "googleapis": "^39.2.0",
-    "nodemailer": "^6.4.8"
+    "nodemailer": "^6.4.8",
+    "websocket-extensions": "^0.1.4"
   }
 }
